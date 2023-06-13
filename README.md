@@ -1,7 +1,8 @@
 # Lab 2 repository
 
 A function that uses command line arguments. This function will print two variables used, the script and then the script AND variables.
-```import sys
+```
+import sys
 
 def print_arguments():
     script_name = sys.argv[0]
