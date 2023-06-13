@@ -15,3 +15,11 @@ def print_arguments():
 # Example usage
 print_arguments()
 ```
+One more Function:
+```
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+```
