@@ -12,4 +12,5 @@ def print_arguments():
         print("Script name and variables:", script_name, variables)
 
 # Example usage
-print_arguments()```
+print_arguments()
+```
